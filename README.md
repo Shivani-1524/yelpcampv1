@@ -1,2 +1,0 @@
-# yelpcampv1
-udemy
